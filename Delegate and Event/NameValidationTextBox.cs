@@ -8,9 +8,13 @@ using System.Windows.Forms;
 
 namespace Delegate_and_Event
 {
-    internal class NameValidationTextBox: TextBox
+    public class NameValidationTextBox: TextBox
     {
-        
+        // Constructor
+        public NameValidationTextBox()
+        {
+
+        }
 
     }
 }
